@@ -1,5 +1,5 @@
 title = "Hugo-test"
-baseURL = "https://example.com"
+baseURL = "https://phelanlewis.github.io/hugo-tester/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
